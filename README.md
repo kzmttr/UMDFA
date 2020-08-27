@@ -18,3 +18,9 @@ In this paper, we show how to train an image-to-image network to predict dense c
 
 ## Oral ECCV 2020 presentation
 [![Oral ECCV 2020 presentation](https://img.youtube.com/vi/d-Y_4ZmMArc/0.jpg)](https://www.youtube.com/watch?v=d-Y_4ZmMArc)
+
+## PyTorch Implementation
+
+Code is coming very soon!
+
+We will provide our own differentiable mesh renderer written entirely in pure PyTorch (no low level CUDA), an implementation and pretrained network for our method and a re-implementation of MoFA.
